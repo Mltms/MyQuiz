@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Questions1">The term \'Pentium\' is related to</string>
+    <string name="Questions2">What does HTTP stands for?</string>
+    <string name="Questions3">What type of software creates a smaller file that is faster to transfer over the Internet?</string>
+    <string name="Questions4">When cutting and pasting, cutting section is temporarily stored in :</string>
+    <string name="Questions5">What is e-commerce?</string>
+    <string name="Questions6">One of the Input devices in computer is :</string>
+    <string name="Questions7">when was the Email first developed?</string>
+    <string name="Questions8">What is the internet? (choose 2) </string>
+</resources>
